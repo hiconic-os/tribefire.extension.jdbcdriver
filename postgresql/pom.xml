@@ -33,7 +33,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.7.2</version>
+            <version>42.7.3</version>
             <exclusions>
                 <!-- PostgreSQL uses the checker-qual library for annotations such as Nullable.
                 This dependency was introduced with 42.2.15, which is briefly mentioned in the release notes
